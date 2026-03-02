@@ -15,7 +15,7 @@ import MyPayslip from "./pages/MyPayslip";
 import ChangePassword from "./pages/ChangePassword";
 import EmployeeDashboard from "./pages/Employeedashboard";
 import News from "./pages/News";
-import MyAttendance from "./pages/MyAttendance";
+import MyAttendance from "./pages/Myattendance";
 import AdminAttendance from "./pages/Adminattendance";
 import Team from "./pages/Team";
 
